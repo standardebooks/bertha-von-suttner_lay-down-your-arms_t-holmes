@@ -1,5 +1,10 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
 
 /* bridgehead */
 [epub|type~="bridgehead"]{
@@ -50,7 +55,6 @@ p span.i2{
 	text-indent: -1em;
 }
 
-
 /* footer */
 footer{
 	margin-top: 1em;
@@ -72,7 +76,8 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-19 > p:last-of-type {
-	text-align: center;
+#chapter-19 > p:last-of-type{
 	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
 }
