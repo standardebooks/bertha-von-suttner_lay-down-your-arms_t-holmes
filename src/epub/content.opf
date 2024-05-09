@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Lay Down Your Arms</dc:title>
 		<meta property="file-as" refines="#title">Lay Down Your Arms</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">The Autobiography of Martha von Tilling</dc:title>
+		<meta property="file-as" refines="#subtitle">Autobiography of Martha von Tilling, The</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Lay Down Your Arms: Autobiography of Martha von Tilling</dc:title>
+		<meta property="file-as" refines="#fulltitle">Lay Down Your Arms</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">War</dc:subject>
 		<dc:subject id="subject-2">Peace</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -42,7 +49,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49294</dc:source>
 		<dc:source>https://archive.org/details/laydownyourarmsa00suttuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Die_Waffen_nieder!</meta>
