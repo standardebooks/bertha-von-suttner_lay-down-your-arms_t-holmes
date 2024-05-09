@@ -41,10 +41,11 @@
 		<meta property="term" refines="#subject-1">sh85145114</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85098940</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A woman relates how war has impacted her life and destroyed what she holds dear.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The pacifist &lt;a href="https://standardebooks.org/ebooks/bertha-von-suttner"&gt;Bertha von Suttner&lt;/a&gt; presents a fictionalized autobiography of the Austrian noblewoman Martha von Tilling. Beginning with the Austro-Sardinian war of 1859, continuing through the Second Schleswig War and the Austro-Prussian war, and concluding with the Franco-Prussian war, von Tillning provides a graphic portrayal of war and the effects it has on family, society, and the protagonist personally. Little is spared from criticism: from scrupulous kings and political leaders praying on ill-conceived notions of nationalism, to religious leaders tying themselves in knots to provide religious justifications for war, to an educational system that sets out soldiering as the highest ideal of manhood, and supporting soldiers as the highest ideal of womanhood.&lt;/p&gt;
+			&lt;p&gt;The real-life Bertha von Suttner was a prolific anti-war activist, and would later become the first woman to win the Nobel Peace Prize. &lt;i&gt;Lay Down Your Arms&lt;/i&gt; is her most well-known statement on the disastrous effects of war. It has been translated into at least sixteen languages and was praised shortly after its release by among others &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;. A 1977 German reprinting included an introduction by Willy Brandt, then President of the Socialist International.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49294</dc:source>
