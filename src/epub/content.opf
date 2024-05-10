@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/bertha-von-suttner/lay-down-your-arms/t-holmes</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-05-10T02:51:41Z</dc:date>
+		<meta property="dcterms:modified">2024-05-10T02:51:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,15 +44,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A woman relates how war has impacted her life and destroyed what she holds dear.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The pacifist &lt;a href="https://standardebooks.org/ebooks/bertha-von-suttner"&gt;Bertha von Suttner&lt;/a&gt; presents a fictionalized autobiography of the Austrian noblewoman Martha von Tilling. Beginning with the Austro-Sardinian war of 1859, continuing through the Second Schleswig War and the Austro-Prussian war, and concluding with the Franco-Prussian war, von Tillning provides a graphic and often intense portrayal of war and the effects it has on family, society, and the protagonist personally.&lt;/p&gt;
-			&lt;p&gt;Drawing on her own wartimes experiences as a civilian as well as interviews with war veterans the author von Suttner creates a memorable critique of the war-mentality and a passionate plea for peace between the European nations. Little is spared from criticism: from scrupulous kings and political leaders praying on ill-conceived notions of nationalism, to religious leaders tying themselves in knots to provide biblical justifications for war, to an educational system that sets out soldiering as the highest ideal of manhood, and supporting soldiers as the highest ideal of womanhood.&lt;/p&gt;
-			&lt;p&gt;In real-life Bertha von Suttner was a prolific anti-war activist, and would later become the first woman to win the Nobel Peace Prize. Originally published in German in 1889, &lt;i&gt;Lay Down Your Arms&lt;/i&gt; is her most well-known statement on the disastrous effects of war. It has been translated into at least sixteen languages and was praised shortly after its release by among others &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;. A 1977 German reprint included an introduction by Willy Brandt, then President of the Socialist International.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Autobiography of Martha von Tilling&lt;/i&gt;, the pacifist &lt;a href="https://standardebooks.org/ebooks/bertha-von-suttner"&gt;Bertha von Suttner&lt;/a&gt; writes the fictionalized autobiography of the eponymous Austrian noblewoman. Beginning with the Austro-Sardinian war of 1859, continuing through the Second Schleswig War and the Austro-Prussian war, and concluding with the Franco-Prussian war, von Tilling paints a graphic and often intense portrayal of war and the effects it has not just on the protagonist, but on family and society.&lt;/p&gt;
+			&lt;p&gt;Drawing on her own wartime experiences as a civilian as well as interviews with war veterans, von Suttner produces a memorable critique of the war-mentality, along with a passionate plea for peace between the European nations. Little is spared from criticism: from scrupulous kings and political leaders praying on ill-conceived notions of nationalism, to religious leaders tying themselves in knots to provide biblical justifications for war, to an educational system that sets out soldiering as the highest ideal of manhood and supporting soldiers as the highest ideal of womanhood.&lt;/p&gt;
+			&lt;p&gt;Von Suttner was a prolific anti-war activist, and would later become the first woman to win the Nobel Peace Prize. Originally published in German in 1889, &lt;i&gt;Lay Down Your Arms&lt;/i&gt; is her most well-known statement on the disastrous effects of war. It has been translated into at least sixteen languages and was praised shortly after its release by &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, among others.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49294</dc:source>
 		<dc:source>https://archive.org/details/laydownyourarmsa00suttuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">153770</meta>
+		<meta property="se:reading-ease.flesch">68.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Die_Waffen_nieder!</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/bertha-von-suttner_lay-down-your-arms_t-holmes</meta>
 		<dc:creator id="author">Bertha von Suttner</dc:creator>
@@ -90,6 +90,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
