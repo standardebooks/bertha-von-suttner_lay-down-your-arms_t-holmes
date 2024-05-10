@@ -75,9 +75,3 @@ footer{
 #preface-1 blockquote:last-of-type p{
 	font-variant: small-caps;
 }
-
-#chapter-19 > p:last-of-type{
-	font-variant: small-caps;
-	text-align: center;
-	text-indent: 0;
-}
