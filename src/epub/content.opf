@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85098940</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A woman relates how war has impacted her life and destroyed what she holds dear.</dc:abstract>
+		<meta property="schema:abstract">A woman relates how war has impacted her life and destroyed what she holds dear.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Autobiography of Martha von Tilling&lt;/i&gt;, the pacifist &lt;a href="https://standardebooks.org/ebooks/bertha-von-suttner"&gt;Bertha von Suttner&lt;/a&gt; writes the fictionalized autobiography of the eponymous Austrian noblewoman. Beginning with the Austro-Sardinian war of 1859, continuing through the Second Schleswig War and the Austro-Prussian war, and concluding with the Franco-Prussian war, von Tilling paints a graphic and often intense portrayal of war and the effects it has not just on the protagonist, but on family and society.&lt;/p&gt;
 			&lt;p&gt;Drawing on her own wartime experiences as a civilian as well as interviews with war veterans, von Suttner produces a memorable critique of the war-mentality, along with a passionate plea for peace between the European nations. Little is spared from criticism: from scrupulous kings and political leaders praying on ill-conceived notions of nationalism, to religious leaders tying themselves in knots to provide biblical justifications for war, to an educational system that sets out soldiering as the highest ideal of manhood and supporting soldiers as the highest ideal of womanhood.&lt;/p&gt;
