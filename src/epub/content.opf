@@ -75,12 +75,12 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">William Orpen</dc:contributor>
 		<meta property="file-as" refines="#artist">Orpen, William</meta>
-		<meta property="schema:alternateName" refines="#translator">Sir William Newenham Montague Orpen</meta>
+		<meta property="schema:alternateName" refines="#artist">William Newenham Montague Orpen</meta>
 		<link href="https://en.wikipedia.org/wiki/William_Orpen" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81102759.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Grief</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Grief Chuck</meta>
+		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
